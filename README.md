@@ -46,7 +46,7 @@
 
 ### 📫 Connect with me:
 <p>
-  <a href="https://www.linkedin.com/in/adansyah/" target="_blank">
+  <a href="https://www.linkedin.com/in/adansyah125/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:adansyah225@gmail.com">
@@ -61,5 +61,5 @@
 
 <!-- Tampilkan kontribusi graf -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adansyah&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adansyah125&theme=tokyo-night" />
 </p>

@@ -30,7 +30,7 @@
 ---
 
 ### 📊 GitHub Stats
-[![GitHub Streak](https://adansyah125.vercel.app?user=ifalfahri&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://adansyah125.vercel.app?user=adansyah125&theme=transparent)](https://git.io/streak-stats)
 
 ## 💻 Tech Stack
 | **Category**     | **Technologies** |

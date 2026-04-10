@@ -24,14 +24,5 @@
 | **Databases**    | ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
 | **Cloud**        | ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) 
 | **Design**       | ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 
-| **Mobile App**       | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)  ![ReactNative](https://img.shields.io/badge/ReactNative-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+| **Mobile App**       | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)  [ReactNative](https://img.shields.io/badge/ReactNative-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-
-
----
-
-
-<!-- Tampilkan kontribusi graf -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adansyah125&theme=tokyo-night" />
-</p>

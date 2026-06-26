@@ -1,17 +1,31 @@
 <h1 align="center">Hi 👋, I'm Syahdan Mutahariq</h1>
-<h3 align="center">A passionate Fullstack Developer from Indonesia 🇮🇩</h3>
 
+<h3 align="center">
+Full Stack Software Engineer | Laravel • React • Next.js • Node.js
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Laravel+%2B+React+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  Building scalable web applications with clean architecture, modern technologies, and user-focused solutions.
 </p>
 
-- 🔭 I’m currently working on **a ticketing system with Laravel + React**
-- 🌱 I’m currently learning **Next.js, T3 Stack, and DevOps**
-- 💬 Ask me about **Laravel, PHP, React, Tailwind, REST API**
-- ⚡ Fun fact: I love solving bugs more than creating features 😄
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Engineer;Laravel+%7C+React+%7C+Next.js;Building+Scalable+Web+Applications;REST+API+%26+Database+Design;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
 ---
+
+###  About Me
+
+*  Full Stack Software Engineer from **Indonesia**
+*  Currently engineering an enterprise-grade Academic Information System (SIAKAD) using **Laravel**, **React**, **RESTful APIs**, and scalable software architecture.
+*  Expanding my expertise in **Next.js**, **TypeScript**, **Node.js**, **DevOps**, and **Cloud Technologies**
+*  Experienced in developing **RESTful APIs**, database design, authentication systems, and responsive web applications
+*  Ask me about **Laravel, PHP, React, Next.js, JavaScript, TypeScript, Tailwind CSS, SQL, and REST API**
+*  Passionate about writing clean, maintainable code and solving real-world problems through software
+*  Continuously learning software architecture, system design, and best engineering practices
+
+---
+
 
 
 
@@ -25,4 +39,26 @@
 | **Cloud**        | ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) 
 | **Design**       | ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 
 | **Mobile App**       | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)  [ReactNative](https://img.shields.io/badge/ReactNative-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/syahdan-mutahariq" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:adansyah225@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://wa.me/6289677121092" target="_blank">
+    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" height="45" alt="WhatsApp"/>
+  </a>
+  &nbsp;
+  <a href="https://www.tiktok.com/@its.syahdan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tiktok" height="45" alt="TikTok"/>
+  </a>
+</p>
 
